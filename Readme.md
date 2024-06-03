@@ -21,8 +21,8 @@ O Feign é usado para facilitar a comunicação com serviços externos através 
 ## Passos para Executar
 
 ### Clone o repositório:
-- git clone https://github.com/seu-usuario/ramengo-api.git 
-- cd ramengo-api
+- git clone https://github.com/seu-usuario/RamenGo
+- cd ramengo
 
 ### Compile e execute a aplicação:
 - mvn clean install
